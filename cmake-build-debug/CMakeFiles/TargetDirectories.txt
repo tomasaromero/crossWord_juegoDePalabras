@@ -1,0 +1,6 @@
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/cmake-build-debug/CMakeFiles/correrValgrind.dir
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/cmake-build-debug/CMakeFiles/correrTests.dir
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/cmake-build-debug/CMakeFiles/gtest_main.dir
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/cmake-build-debug/CMakeFiles/gtest.dir

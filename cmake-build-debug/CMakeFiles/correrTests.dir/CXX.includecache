@@ -1,0 +1,68 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/src/Letra.h
+Tipos.h
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/src/Tipos.h
+
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/src/Tipos.h
+cstdlib
+-
+cassert
+-
+iostream
+-
+set
+-
+tuple
+-
+string
+-
+map
+-
+list
+-
+vector
+-
+queue
+-
+
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/src/juego.cpp
+juego.h
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/src/juego.h
+
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/src/juego.h
+tablero.h
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/src/tablero.h
+Tipos.h
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/src/Tipos.h
+variante.h
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/src/variante.h
+
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/src/string_map.h
+Tipos.h
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/src/Tipos.h
+string_map.hpp
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/src/string_map.hpp
+
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/src/string_map.hpp
+
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/src/tablero.h
+Tipos.h
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/src/Tipos.h
+Letra.h
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/src/Letra.h
+
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/src/variante.h
+Tipos.h
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/src/Tipos.h
+Letra.h
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/src/Letra.h
+string_map.h
+/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/src/string_map.h
+

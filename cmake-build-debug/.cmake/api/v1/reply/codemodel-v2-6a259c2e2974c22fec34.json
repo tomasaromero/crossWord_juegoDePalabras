@@ -1,0 +1,86 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TP_JuegoDePalabras",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "correrTests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-correrTests-Debug-901b34615b24b71bac49.json",
+					"name" : "correrTests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "correrValgrind::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-correrValgrind-Debug-cc66fe8ab71b9ed279ac.json",
+					"name" : "correrValgrind",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gtest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gtest-Debug-3d5a073cfe7e090f8cbc.json",
+					"name" : "gtest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gtest_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gtest_main-Debug-45aa6ef67dc9d9300453.json",
+					"name" : "gtest_main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto/cmake-build-debug",
+		"source" : "/mnt/c/Users/tomas/OneDrive/Escritorio_Surface/Facultad/2do Anio/2do Cuatrimestre 2022/AED2/TP2-2-12/entregable_alumnos/esqueleto"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}
